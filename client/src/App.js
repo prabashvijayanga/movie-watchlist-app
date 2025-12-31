@@ -21,7 +21,7 @@ import Profile from './pages/Profile';
 import AddMovie from './components/movies/AddMovie';
 import EditMovie from './components/movies/EditMovie';
 
-// Create Material-UI theme
+// Create (Material-UI) theme
 const theme = createTheme({
   palette: {
     primary: {
